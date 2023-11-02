@@ -9,7 +9,6 @@ function App() {
         <p>
         <code>src/App.js</code>-u redaktə edin və yenidən yükləmək üçün yadda saxlayın.
         </p>
-        <div id="app"></div>
         <a
           className="App-link"
           href="https://github.com/FaridAlieff/first-react-app/tree/main"
